@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-acme/sdk
+module github.com/kevholmes/pulumi-acme/sdk
 
 go 1.20
 
