@@ -1,4 +1,4 @@
-module github.com/pulumiverse/pulumi-acme/provider
+module github.com/kevholmes/pulumi-acme/provider
 
 go 1.20
 
